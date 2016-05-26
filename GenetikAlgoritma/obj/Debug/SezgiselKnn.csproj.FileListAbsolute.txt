@@ -1,0 +1,36 @@
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.pdb
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\SezgiselKnn.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Form1.resources
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Properties.Resources.resources
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\SezgiselKnn.csproj.GenerateResource.Cache
+H:\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+H:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+H:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
+H:\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe
+H:\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.pdb
+H:\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\mscorlib.dll
+H:\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\normidna.nlp
+H:\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\normnfc.nlp
+H:\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\normnfd.nlp
+H:\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\normnfkc.nlp
+H:\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\normnfkd.nlp
+H:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Form1.resources
+H:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Properties.Resources.resources
+H:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\SezgiselKnn.csproj.GenerateResource.Cache
+H:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\SezgiselKnn.csprojResolveAssemblyReference.cache
+E:\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+E:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+E:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
+I:\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+I:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+I:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
+I:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\SezgiselKnn.csprojResolveAssemblyReference.cache
+I:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Form1.resources
+I:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Properties.Resources.resources
+I:\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\SezgiselKnn.csproj.GenerateResource.Cache
+I:\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe
+I:\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.pdb

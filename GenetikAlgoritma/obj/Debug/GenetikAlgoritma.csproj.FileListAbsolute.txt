@@ -1,0 +1,12 @@
+c:\users\burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.pdb
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csprojResolveAssemblyReference.cache
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Form1.resources
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Properties.Resources.resources
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.GenerateResource.Cache
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\SezgiselKnn\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+C:\Users\Burak\Documents\Visual Studio 2015\Projects\SezgiselKnn\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
